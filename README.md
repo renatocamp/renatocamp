@@ -1,6 +1,6 @@
 ### Fala, Galera 👋
 #### Eterno estudante de tecnologia
-![Eterno estudante de tecnologia](https://cdn.pixabay.com/photo/2020/10/14/08/20/technology-5653660_960_720.jpg)
+![Eterno estudante de tecnologia](https://github.com/renatocamp/renatocamp/blob/main/public%20class%20Test%20%7B%20public%20void%20main(String%5B%5D%20args)%7B%20System.out.println(Hello%20World)%3B%20%7D%20%7D.png)
 
 Meu nome é Renato, tenho pós graduação em Administração de empresas, porém, sempre fui um apaixonado por tecnologia, recentemente iniciei uma nova Pós-graduação na área técnologica, Desenvolvimento Orientado a Objetos em Java, uma vez que já tinha familiaridade com linguagem de programação, lógica e tudo mais, então tem sido bem tranquilo para eu aprender Java. 
 
