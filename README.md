@@ -1,9 +1,9 @@
 <h1 align="center">Fala galera! Renato aqui 👋</h1>
 <h3 align="center">Estudante ,praticante e entusiasta da área tecnológica</h3>
 
-- 🌱 Aprendizado contínuo em **Teste e qualidade de softwares**
+- 🌱 Aprendizado contínuo em **Tecnologia**
 
-- 💬 Pergunte me sobre **Java, HTML, CSS,**
+- 💬 Pergunte me sobre **Java, HTML, CSS, SQL, JSP, JSF**
 
 - 📫 Fale comigo **renatocontato@hotmail.com**
 
